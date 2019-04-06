@@ -14,6 +14,8 @@ import java.util.stream.Collectors;
  *
  * 주석이 바꾸기 전 소스
  *
+ * 교훈. Comparator 에 대해서 더 공부하자.
+ *
  */
 public class BigNumber {
 
