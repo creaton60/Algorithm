@@ -2,7 +2,6 @@ package hash;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.LongStream;
 
 /**
  * 스파이가 입을 수 있는 의류 세기
