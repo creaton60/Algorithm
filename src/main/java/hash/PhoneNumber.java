@@ -1,8 +1,5 @@
 package hash;
 
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * 전화번호 목록에서
  *
